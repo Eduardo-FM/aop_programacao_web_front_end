@@ -29,3 +29,16 @@
     text-align: center;
     padding: 2em;
 }
+
+.footer {
+    background-color: #BACED6; 
+    padding: 40px 0; 
+    text-align: center; 
+    border-top: 1px solid #ccc; 
+}
+
+.footer p {
+    margin: 0; 
+    font-size: 24px; 
+    color: #333; 
+}
