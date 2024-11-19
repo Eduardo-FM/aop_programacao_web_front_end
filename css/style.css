@@ -1,3 +1,26 @@
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 24px; 
+}
+
+.container-fluid{
+    background-color: #BACED6;
+}
+
+.collapse{
+    padding: 0.5rem;
+}
+
+.navbar-nav{
+    padding: 0.5rem;
+    margin-right: 1rem;
+}
+
+.nav-link{
+    margin-right: 1rem;
+}
+
 .banner{
     width: 100%;
 }
