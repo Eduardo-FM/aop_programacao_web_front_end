@@ -197,3 +197,21 @@ ul li {
 .btn-back:hover {
     background-color: #5a6268;
 }
+
+.highlight-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+.highlight-section {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.highlight-text {
+    flex: 1;
+    text-align: justify;
+}
