@@ -5,7 +5,7 @@
 }
 
 .container-fluid{
-    background-color: #BACED6;
+    background-color: #F09BBE;
 }
 
 .collapse{
@@ -19,6 +19,7 @@
 
 .nav-link{
     margin-right: 1rem;
+    color: #fff;
 }
 
 .banner{
@@ -39,7 +40,7 @@
 }
 
 .footer {
-    background-color: #BACED6; 
+    background-color: #0096E1; 
     padding: 40px 0; 
     text-align: center; 
     border-top: 1px solid #ccc; 
@@ -90,13 +91,13 @@
 }
 
 .attraction-title {
-    font-size: 24px;
+    font-size: 30px;
     font-style: bold;
     margin-bottom: 10px;
 }
 
 .attraction-paragraph {
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 10px;
     text-align: justify;
 }
@@ -106,7 +107,7 @@ ul {
 }
 
 ul li {
-    font-size: 20px;
+    font-size: 30px;
     list-style: disc;
 }
 
